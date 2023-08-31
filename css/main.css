@@ -7,7 +7,7 @@
     font-family: 'Cairo', sans-serif;
 }
 body{
-    background: url("../images/food-background-4.jpg") no-repeat center /cover;
+    background: url("../images/food-background.jpg") no-repeat center /cover;
 }
 .form-container{
     background-color: var(--primary-color);
